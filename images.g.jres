@@ -9,6 +9,11 @@
         "mimeType": "image/x-mkcd-f4",
         "displayName": "myImage"
     },
+    "image3": {
+        "data": "hwQQABAAAAAAAAAAAAAAAABwh4eHh2cAAICGhoaGhgAAgHd3d3eHAAAAAHd3hwAAAABwZ2Z3CAAAAGB2d3YIAHB3d3ZmaAgAAACAZohoCAAAAIBmZmYIAAAAAGhmhgAAAHCIiIiIiAAAgIaGhoaGAACAhoaGhoYAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "tankP2Up"
+    },
     "anim1": {
         "namespace": "myAnimations",
         "id": "anim1",
