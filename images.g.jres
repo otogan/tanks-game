@@ -14,6 +14,21 @@
         "mimeType": "image/x-mkcd-f4",
         "displayName": "tankP2Up"
     },
+    "image4": {
+        "data": "hwQQABAAAAAAAAAAAAAAAABQ5eXl5UUAAODk5OTk5AAA4FVVVVXlAAAAQFVVBQAAAABVRETlAAAAAEVVReQAAAAARUXkVFVVAABF5O7kAAAAAEVEROQAAAAA4EREDgAAAFDu7u7u7gAA4OTk5OTkAADg5OTk5OQAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "tankP1Down"
+    },
+    "image5": {
+        "data": "hwQQABAAAAAAAABQAAAAAAAAAFAAAAAAUO4AUABQ7gBQVABQAOBEAOBeUFTu4O4AUFRVRETuRADgXkVVRO7uAFBURUVO7kQA4F5FRU7u7gBQVFXkTu5EAOBeXkXk7u4AUFTg7u7gRABA7gAAAODuAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "tankP1Left"
+    },
+    "image6": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABQ7gAAAFDuAFBUUEVE4EQA4F5UROTu7gBQVEVVRO5EAOBeRUVO7u4AUFRFRU7uRADgXkXkTu7uAFBUVURE7kQA4F7gXu7g7gBQVABQAOBEAEDuAFAA4O4AAAAAUAAAAAAAAABQAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "tankP1Right"
+    },
     "anim1": {
         "namespace": "myAnimations",
         "id": "anim1",
